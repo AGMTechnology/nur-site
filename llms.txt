@@ -1,0 +1,63 @@
+# Nūr
+
+> Nūr teaches you Islam through the Quran: read it, memorise it, listen to its stories, and put good manners into practice every day.
+
+Nūr is a mobile app for iOS and Android, in French and English. Its French line: « Nūr t’apprend l’islam à partir du Coran : le lire, le mémoriser, écouter ses histoires et pratiquer les bonnes manières au quotidien. »
+
+## What Nūr teaches
+- **Reading the Quran**, starting from the first Arabic letter: the letters, joined letters, the vowel marks, then the page of the Quran itself. At the end of the reading part, a learner reads al-Fātiḥah and al-Ikhlāṣ from the page, unaided.
+- **Memorising the Quran**, surah by surah: al-Fātiḥah, then Juzʾ ʿAmma, then on through the Quran. Each passage is heard recited by Shaykh Maḥmūd Khalīl al-Ḥuṣarī, read along, read alone, then recited from memory; the app listens and shows which word to say again. A spaced revision brings back what the learner knows.
+- **Stories** of the prophets and companions, and the stories behind surahs, told aloud on illustrated pages, from the Quran and reports graded authentic.
+- **Good manners**: everyday situations and the words of the sunnah (for example, what to say when someone sneezes).
+
+## Who it is for
+Adults and teenagers (the store audience is 13+): someone who cannot read an Arabic letter yet, someone who reads and wants to memorise, and someone who wants the stories and manners. A household can share one account with several learners.
+
+## What Nūr does not teach (at launch)
+The Arabic language (vocabulary and grammar), tajwīd, fiqh (rulings) and creed. Nūr makes no claim of review by scholars.
+
+## Price
+A subscription: yearly with a 7-day free trial, or monthly with no trial. The price is shown on the App Store and Google Play, for each country.
+
+## Who makes Nūr
+Ahmed, as a private individual. The legal notice gives the details.
+
+## Privacy
+When the app listens to a recitation, it does so on the phone; recordings never leave it. Nūr shows no advertising and carries no advertising tracker.
+
+## Pages
+- [Home (French)](https://getnurapp.com/): Moins de scroll. Plus de Coran.
+- [Home (English)](https://getnurapp.com/en/): Less scrolling. More Quran.
+- [Blog (French)](https://getnurapp.com/blog/)
+- [Blog (English)](https://getnurapp.com/en/blog/)
+- [About Nūr (English)](https://getnurapp.com/en/about/): What Nūr teaches, who it’s for, what it costs, which languages it speaks and what data it keeps. The answers in ten questions.
+- [À propos de Nūr (French)](https://getnurapp.com/a-propos/): Ce que Nūr t’apprend, pour qui, combien il coûte, dans quelles langues et quelles données il garde. Les réponses en dix questions.
+- [Legal notice (English)](https://getnurapp.com/en/legal-notice/): Who publishes and hosts getnurapp.com, who owns what on it, and how to reach us.
+- [Mentions légales (French)](https://getnurapp.com/mentions-legales/): Qui édite et qui héberge le site getnurapp.com, ce qui appartient à qui, et comment nous écrire.
+- [Privacy Policy (English)](https://getnurapp.com/en/privacy/): Nūr works without an account, your recordings never leave your phone, and you can delete everything. What Nūr handles, in detail, and your rights.
+- [Politique de confidentialité (French)](https://getnurapp.com/confidentialite/): Nūr fonctionne sans compte, tes enregistrements ne quittent pas ton téléphone et tu peux tout effacer. Ce que Nūr traite, en détail, et tes droits.
+- [Terms of Service (English)](https://getnurapp.com/en/terms/): The terms of use of the Nūr app: the account, the subscription, your recordings, and what each side agrees to do.
+- [Conditions d’utilisation (French)](https://getnurapp.com/conditions/): Les conditions d’utilisation de l’appli Nūr : le compte, l’abonnement, tes enregistrements, et ce que chacun s’engage à faire.
+
+## Articles (English)
+- [How to Memorise a Surah Fast and Keep It](https://getnurapp.com/en/blog/how-to-memorize-a-surah-fast/): Listen to the surah, read it, recite it from memory, then revise it over the next few days. A step-by-step method, and how long it takes.
+- [Juz Amma Surah List in Order, and Where to Start](https://getnurapp.com/en/blog/juz-amma-surah-list/): The 37 surahs of Juz Amma in the order of the Quran, with the meaning of each name, how many hizb they fill, and which surah to memorise first.
+- [Arabic Alphabet: the 28 Letters for Reading the Quran](https://getnurapp.com/en/blog/arabic-alphabet-28-letters/): The Arabic alphabet has 28 letters. Here's how each one changes shape within a word, and a simple order for learning them to read the Quran.
+- [How to Read the Quran as an Adult Beginner](https://getnurapp.com/en/blog/how-to-read-the-quran-adult-beginner/): Even if you’ve never read a letter of Arabic, you can learn to read the Quran: letters first, then words, then the page. You can start today.
+- [How to Memorise the Quran Without Forgetting It](https://getnurapp.com/en/blog/how-to-memorize-the-quran-without-forgetting/): What you memorise fades if you don’t return to it. How to revise, how long the whole Quran takes, and what the Prophet ﷺ said about it.
+- [Story of Surah Al Fil and the Year of the Elephant](https://getnurapp.com/en/blog/story-of-surah-al-fil/): An army marched on Makkah with an elephant, and Allah held it back. Learn what the five verses of Surah Al Fil say and what they leave out.
+- [Story of Prophet Yusuf, as the Quran Tells It](https://getnurapp.com/en/blog/story-of-prophet-yusuf/): The dream, the well, the prison, then Egypt: the story of Prophet Yusuf as the Quran tells it, in the surah named after him.
+- [What to Say When Someone Sneezes in Islam](https://getnurapp.com/en/blog/what-to-say-when-someone-sneezes-in-islam/): When someone sneezes, they say al-ḥamdu lillāh and you reply Yarḥamuka-llāh. Here are the words, what they mean, and what to do when someone keeps sneezing.
+
+## Articles (French)
+- [Comment apprendre une sourate rapidement et la garder](https://getnurapp.com/blog/comment-apprendre-une-sourate-rapidement/): Écoute la sourate, lis-la, récite-la de mémoire, puis fais-la revenir les jours suivants. La méthode pas à pas, et combien de temps compter.
+- [Juz Amma : la liste des 37 sourates, dans l’ordre](https://getnurapp.com/blog/juz-amma-liste-des-sourates/): Les 37 sourates de Juz Amma, dans l’ordre du Coran, avec le sens de leur nom. Combien de hizb elles font, et par laquelle commencer à mémoriser.
+- [Alphabet arabe : les 28 lettres pour lire le Coran](https://getnurapp.com/blog/alphabet-arabe-28-lettres/): L’alphabet arabe compte 28 lettres. Voici comment elles changent de forme dans le mot, et l’ordre simple pour les apprendre jusqu’à lire le Coran.
+- [Lire le Coran pour débutant : par où commencer](https://getnurapp.com/blog/lire-le-coran-debutant/): Même si tu n’as jamais lu une lettre d’arabe : les lettres, puis les mots, puis la page du Coran. L’ordre à suivre pour commencer aujourd’hui.
+- [Comment mémoriser le Coran sans l’oublier](https://getnurapp.com/blog/comment-memoriser-le-coran-sans-oublier/): Ce que tu mémorises s’efface si tu n’y reviens pas. Comment réviser, combien de temps compter pour le Coran entier, et ce qu’en dit le Prophète ﷺ.
+- [Histoire de la sourate Al Fil : ce que dit le Coran](https://getnurapp.com/blog/histoire-sourate-al-fil/): Une armée marche sur La Mecque avec un éléphant, et Allah la retient. Ce que disent les cinq versets de la sourate Al Fil, et ce qu’ils ne disent pas.
+- [Histoire du prophète Youssouf, d’après le Coran](https://getnurapp.com/blog/histoire-prophete-youssouf/): Le rêve, le puits, la prison, puis l’Égypte : l’histoire du prophète Youssouf telle que le Coran la raconte, dans la sourate qui porte son nom.
+- [Que dire quand quelqu’un éternue en islam](https://getnurapp.com/blog/que-dire-quand-quelqu-un-eternue-islam/): Celui qui éternue dit « al-ḥamdou lillāh », tu réponds « Yarḥamouka-llāh ». Les mots, leur sens, et quoi faire quand quelqu’un éternue plusieurs fois.
+
+## Optional
+- [Every article in full, as Markdown](https://getnurapp.com/llms-full.txt)
