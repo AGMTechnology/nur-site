@@ -4375,7 +4375,7 @@ const Consent = (() => {
   const read = () => { try { const v = JSON.parse(localStorage.getItem(KEY) || 'null'); return v && Date.now() - v.t < KEEP ? v.ok : null; } catch (e) { return null; } };
   const write = ok => { try { localStorage.setItem(KEY, JSON.stringify({ ok, t: Date.now() })); } catch (e) { /* not kept: asked again next time */ } };
   function load() {
-    if (!GA_ID || window.gtag) return;
+    if (!GA_ID || window.gtag || !STATIC) return;   // (v82) only on the built site, never in the demo artifact
     window.dataLayer = window.dataLayer || []; window.gtag = function () { window.dataLayer.push(arguments); };
     window.gtag('js', new Date()); window.gtag('config', GA_ID, { allow_google_signals: false, allow_ad_personalization_signals: false, cookie_expires: 182 * 86400 });   // (v82) as long as the choice
     const sc = document.createElement('script'); sc.async = true; sc.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID; document.head.appendChild(sc);
