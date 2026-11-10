@@ -1,0 +1,9 @@
+site/
+__pycache__/
+*.pyc
+demos/option-d/_versions/
+demos/option-d/_captures/
+demos/option-[abc]/
+demos/*.png
+demos/*.md
+blog/_before-en/

@@ -1,0 +1,17 @@
+{
+  "id": "legal",
+  "fr": {
+    "slug": "mentions-legales",
+    "title": "Mentions légales",
+    "metaTitle": "Mentions légales · Nūr",
+    "metaDesc": "Qui édite et qui héberge le site getnurapp.com, ce qui appartient à qui, et comment nous écrire.",
+    "body": "<p class=\"art-lead\">Qui édite et qui héberge ce site, comme le demande la loi pour la confiance dans l’économie numérique (article 6).</p><h2>Éditeur</h2><p>Le site getnurapp.com est édité par Ahmed Agoummadane, à titre personnel.<br>Adresse : 1 rue du Faraman, 13140 Miramas, France<br>E-mail : <a href=\"mailto:ahmed.agoummadane@gmail.com\">ahmed.agoummadane@gmail.com</a></p><p>Directeur de la publication : Ahmed Agoummadane.</p><h2>Hébergement</h2><p>GitHub, Inc. (GitHub Pages)<br>88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis<br><a href=\"https://support.github.com\">support.github.com</a></p><h2>Propriété intellectuelle</h2><p>Les textes, les illustrations et les captures de l’appli publiés sur ce site appartiennent à l’éditeur. Leur reproduction demande son accord écrit.</p><p>App Store est une marque d’Apple Inc. Google Play est une marque de Google LLC.</p><h2>Données personnelles et cookies</h2><p>La <a data-doc=\"privacy\">politique de confidentialité</a> explique quelles données Nūr traite et pourquoi. Ce site mesure ses visites avec Google Analytics seulement si tu l’acceptes. Tu peux changer d’avis à tout moment : <button type=\"button\" class=\"linkbtn\" data-consent>gérer les cookies</button>.</p><h2>Contact</h2><p>Pour toute question, écris à <a href=\"mailto:ahmed.agoummadane@gmail.com\">ahmed.agoummadane@gmail.com</a>.</p>"
+  },
+  "en": {
+    "slug": "legal-notice",
+    "title": "Legal notice",
+    "metaTitle": "Legal Notice · Nūr",
+    "metaDesc": "Who publishes and hosts getnurapp.com, who owns what on it, and how to reach us.",
+    "body": "<p class=\"art-lead\">Who publishes and hosts this site, as French law requires (the law for confidence in the digital economy, article 6).</p><h2>Publisher</h2><p>getnurapp.com is published by Ahmed Agoummadane, as a private individual.<br>Address: 1 rue du Faraman, 13140 Miramas, France<br>Email: <a href=\"mailto:ahmed.agoummadane@gmail.com\">ahmed.agoummadane@gmail.com</a></p><p>Publication director: Ahmed Agoummadane.</p><h2>Hosting</h2><p>GitHub, Inc. (GitHub Pages)<br>88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, United States<br><a href=\"https://support.github.com\">support.github.com</a></p><h2>Intellectual property</h2><p>The texts, illustrations and app screenshots on this site belong to the publisher. Reproducing them requires written permission.</p><p>App Store is a trademark of Apple Inc. Google Play is a trademark of Google LLC.</p><h2>Personal data and cookies</h2><p>The <a data-doc=\"privacy\">privacy policy</a> explains what data Nūr handles and why. This site measures its visits with Google Analytics only if you agree. You can change your mind at any time: <button type=\"button\" class=\"linkbtn\" data-consent>manage cookies</button>.</p><h2>Contact</h2><p>For any question, write to <a href=\"mailto:ahmed.agoummadane@gmail.com\">ahmed.agoummadane@gmail.com</a>.</p>"
+  }
+}
